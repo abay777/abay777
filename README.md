@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abay sankar</h1>
 <h3 align="center">A passionate fullstack developer from india</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abay777" alt="abay777" /></a> </p>
+- 🌱 I’m currently learning **react native**
 
 - 💬 Ask me about **react, node js , typescript ,docker ,redux,next js, monogo db, mysql,aws , firebase,appwrite ,zustand,**
 
